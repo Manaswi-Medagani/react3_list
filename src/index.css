@@ -1,0 +1,14 @@
+h1{
+  color: red;
+  background-color: darkgray;
+}
+p{
+  font-family: sans-serif;
+  color: brown;
+}
+img{
+  width: 300PX;
+  height: auto;
+  aspect-ratio: 600/300;
+
+}
